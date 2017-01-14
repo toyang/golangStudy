@@ -1,2 +1,2 @@
 # golangStudy
-学习gonglang
+学习golang

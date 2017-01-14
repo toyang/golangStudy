@@ -1,2 +1,2 @@
-# golangStusy
+# golangStudy
 学习gonglang
